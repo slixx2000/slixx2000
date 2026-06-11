@@ -1,120 +1,135 @@
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+# Hi there, I'm Shaun 👋
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+### 💻 Full Stack Developer • 🤖 AI Enthusiast • 🎓 University Student • 🏠 Homelab Builder
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+Passionate about building scalable applications, exploring AI technologies, and designing reliable systems. I'm a software developer and freelancer currently pursuing my university studies while constantly experimenting with new technologies—from full stack web development to Linux servers and self-hosted infrastructure.
 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-
-### Frontend
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-
-### Backend
-
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-
-### Database
-
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-### DevOps & Tools
-
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username={github_username}&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user={github_username}&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={github_username}&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username={github_username}&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username={github_username}&theme=react-dark&hide_border=true" alt="Contribution Graph" />
-</div>
-
-## 🎯 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/{github_username}/{project1}">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username={github_username}&repo={project1}&theme=radical" alt="Project 1" />
-  </a>
-  <a href="https://github.com/{github_username}/{project2}">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username={github_username}&repo={project2}&theme=radical" alt="Project 2" />
-  </a>
-</div>
-
-## 🌐 Connect with Me
-
-<div align="center">
-  <a href="https://linkedin.com/in/{linkedin_username}">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/{twitter_username}">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:{email}">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="{portfolio_url}">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
-  </a>
-</div>
-
-## 💭 Quote of the Day
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</div>
+I'm currently diving deeper into **System Design & Software Architecture** while expanding my homelab and developing projects that solve real-world problems.
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username={github_username}&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
+## 🚀 Tech Stack
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!;Feel+free+to+connect+with+me;Let's+build+something+amazing+together!" alt="Typing SVG" />
-</div>
+### Languages
 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square\&logo=postgresql\&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
+
+### Frontend
+
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square\&logo=next.js\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square\&logo=tailwindcss\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square\&logo=bootstrap\&logoColor=white)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square\&logo=django\&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square\&logo=flask\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square\&logo=springboot\&logoColor=white)
+
+### Databases
+
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square\&logo=postgresql\&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square\&logo=supabase\&logoColor=white)
+
+### DevOps & Tools
+
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square\&logo=kubernetes\&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square\&logo=vercel\&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square\&logo=cloudflare\&logoColor=white)
+
+---
+
+## 🌱 Currently Learning
+
+* 🏗️ System Design
+* 🧩 Software Architecture
+* ☁️ Distributed Systems
+* 🏠 Advanced Homelab Infrastructure
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=slixx2000&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=slixx2000&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slixx2000&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=slixx2000&theme=tokyonight&no-frame=true&margin-w=6"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=slixx2000&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🎯 Featured Projects
+
+* 📦 **PKGSmart** – Smart package management solution.
+* 🛒 **Campus Cart** – Student-focused marketplace platform.
+* 💍 **Chain.reaction_jewelry** – Jewelry business platform and online presence.
+* 🎫 **QR Tickety** – QR-powered ticketing and event management solution.
+
+---
+
+## 🎮 Beyond Coding
+
+* 🎮 Gaming enthusiast
+* 🏠 Building and experimenting with homelabs
+* 🐧 Exploring Linux distributions
+* 🎓 Active in ZCAS University projects
+* 💻 Building a personal CLI portfolio
+* 🤖 Keeping up with AI and emerging technologies
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/search/results/all/?keywords=Shaun%20Mutangi">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:mutangishaun7@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=slixx2000&style=flat-square&color=blue"/>
+</p>
+
+<p align="center">
+<i>"Building solutions one commit at a time."</i>
+</p>
